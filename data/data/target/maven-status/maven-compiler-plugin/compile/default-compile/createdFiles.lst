@@ -1,0 +1,8 @@
+com\weather\data\DataApplication.class
+com\weather\data\repository\WeatherDataRepository.class
+com\weather\data\specification\WeatherDataSpecification.class
+com\weather\data\service\WeatherDataStatistics.class
+com\weather\data\entity\WeatherDataEntity.class
+com\weather\data\model\WeatherData.class
+com\weather\data\service\CsvProcessorService.class
+com\weather\data\controller\WeatherDataController.class
